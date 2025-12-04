@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Im Perry the Platamus
+
+
 La rama segunda realiza un golpe de estado para heredar los derechos de su padre
